@@ -1,0 +1,6 @@
+//#include "polish_notation_getop.c"
+//#include "polish_notation_getch.c"
+#include "polish_notation_stack.c"
+// #include "KR_C_4-3_neg.c"
+//#include "KR_C_4-5_getop.c"
+#include "KR_C_4-11.c"
